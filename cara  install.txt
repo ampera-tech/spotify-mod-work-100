@@ -1,0 +1,12 @@
+1. Download spotify versi terbaru https://www.spotify.com
+
+2. Download mod spotify DISINI
+
+3. Copy & paste netutils.dll, Injector.exe dan Inject.vbs ke tempat spotify di instal 
+
+Biasanya di C:\Users\NAMA USER\AppData\Roaming\Spotify
+ket : NAMA USER adalah nama desktop kalian
+
+4. Buka Task Scheduler, pilih Import Task, masukkan file Blo?ckTheSpo?t.xml??, klik OK
+
+5. selesai
